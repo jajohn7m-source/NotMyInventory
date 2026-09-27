@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Meta>
+  <title>Not My Inventory</title>
+  <id>jajohn7m.notmyinventory</id>
+  <author>jajohn7m</author>
+  <loadPriority>100</loadPriority>
+  <version>0.23.338</version>
+  <tags>QoL</tags>
+  <description>Everything you carry stays yours. Grants the innate passive "Inventory Ward" (Feats tab), and the message log tells you whenever it saves you.
+
+- Theft: gnomes, thieves and other steal abilities (items, food, gold), pickpockets, rogues skimming gold when you swap places, and bandits demanding an item all come away empty-handed.
+- Fire and cold can no longer burn, shatter or cook anything in your inventory (including inside containers), and your fireproof/coldproof blankets are no longer used up.
+- Acid can no longer corrode your equipment, and hostile curses can no longer curse or doom it.
+
+Every protection, and the passive's name, can be toggled in BepInEx/config/jajohn7m.notmyinventory.cfg.
+Safe to remove: the game simply drops the passive from your save.
+
+Source code: https://github.com/jajohn7m-source/NotMyInventory
+Made by jajohn7m
+  </description>
+  <builtin>false</builtin>
+</Meta>
